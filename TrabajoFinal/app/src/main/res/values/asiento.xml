@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="butacas">
+        <item>1a</item>
+        <item>2a</item>
+        <item>3a</item>
+        <item>4a</item>
+        <item>5a</item>
+        <item>6a</item>
+        <item>7a</item>
+        <item>8a</item>
+        <item>9a</item>
+        <item>10a</item>
+    </string-array>
+</resources>

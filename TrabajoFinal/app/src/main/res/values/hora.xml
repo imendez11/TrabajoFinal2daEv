@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="horas">
+        <item>12pm</item>
+        <item>13:30</item>
+        <item>13pm</item>
+        <item>13:30</item>
+        <item>14pm</item>
+        <item>14:30</item>
+        <item>15pm</item>
+        <item>15:30</item>
+        <item>16pm</item>
+        <item>16:30</item>
+        <item>17pm</item>
+        <item>17:30</item>
+    </string-array>
+</resources>
